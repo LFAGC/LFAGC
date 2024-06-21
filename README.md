@@ -16,4 +16,4 @@ I have completed several projects, primarily school assignments and personal end
 
 In this project, the assignment was to create a web application to help prospective students find the right course for their future. This web app was developed for my school to promote the courses they offer.
 
-![alt text](https://cdn.discordapp.com/attachments/829974251225743400/1253704430449070232/image.png?ex=6676d2bc&is=6675813c&hm=6086be0d3cc6966781cda2882bfba75feddc85aba73aa29c4500ed6f95aac9b0&)
+<img src="https://cdn.discordapp.com/attachments/829974251225743400/1253704430449070232/image.png?ex=6676d2bc&is=6675813c&hm=6086be0d3cc6966781cda2882bfba75feddc85aba73aa29c4500ed6f95aac9b0&" height='200' />
