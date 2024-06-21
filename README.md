@@ -60,8 +60,6 @@ In this project, a friend and I developed a website for a live event at our scho
 ## Some Example Code
 
 `
-    <?php
-
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         require 'session.inc.php';
         require 'config.php';
