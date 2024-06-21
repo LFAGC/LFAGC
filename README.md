@@ -2,7 +2,7 @@
 
 Hello there,
 
-I am Lars Werner, a student currently seeking an internship and job opportunities. I am enrolled in the Software Development course at Grafisch Lyceum Rotterdam, a school that emphasizes a creative mindset. Here, I am learning how to apply my skills in a professional environment and continuously improve my coding abilities.
+I am Lars Werner, a dutch student currently seeking an internship and job opportunities. I am enrolled in the Software Development course at Grafisch Lyceum Rotterdam, a school that emphasizes a creative mindset. Here, I am learning how to apply my skills in a professional environment and continuously improve my coding abilities.
 
 ## School Course
 
